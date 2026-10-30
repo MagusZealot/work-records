@@ -31,6 +31,8 @@ This is a record of my involvement as a game thesis adviser in Ateneo de Manila 
 
 I teach game design at Ateneo de Manila University. It covers topics on fun, and game balance. Applying frameworks such as the MDA, and Jesse Schell’s Elemental Tetrad. The requirements of this class involve teaching students on how to make a Game Design Document, a sell sheet (for Board Game and elevator pitches).
 
+I work as a Game Designer at Monstronauts since October 2026. I work on the Game Balance and Systems of Potion Punch 2 Endless Mode, and add and maintain improvements for the Potion Punch 2 game editor.
+
 A record of my design work involves both my commissions and projects from my coursework in 3D Modelling Class. Here are screenshots of my Blender outputs. Over time, for 3D games that I worked on, especially on Heritage Hero: The Villa Escudero VR Game, I helped in specifying or fixing the models for the game.
 
 ## Starcraft 2\. Mothership Model
